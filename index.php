@@ -78,16 +78,17 @@
     <a name="about"></a>
     <div class="intro-header">
         <div class="container">
-
             <div class="row">
                 <div class="col-lg-12">
                     <div class="intro-message">
-                        <h1>DiTech Service</h1>
-                        <h3>Наша специализация – перевод документов в электронный вид.</h3>
-                        <hr class="intro-divider">
-                        <p class="lead">Мы предоставляем услуги по сканированию документов, созданию электронных архивов,<br>
-                            обработке фотоматериалов, распознаванию текста и т.д.</p>
-                        <p>Сотрудничаем с архивами, издательствами, редакциями периодических изданий.</p>
+                        <div class="intro-text">
+                            <h1>DiTech Service</h1>
+                            <h3>Наша специализация – перевод документов в электронный вид.</h3>
+                            <hr class="intro-divider">
+                            <p class="lead">Мы предоставляем услуги по сканированию документов, созданию электронных архивов,<br>
+                                обработке фотоматериалов, распознаванию текста и т.д.</p>
+                            <p>Сотрудничаем с архивами, издательствами, редакциями периодических изданий.</p>
+                        </div>
                     </div>
                 </div>
             </div>
@@ -112,7 +113,7 @@
             <div class="alert alert-success">
                 <div class="media">
                     <div class="media-left">
-                        <img class="media-object" src="/img/ipad.png" alt="Сканирование документов">
+                        <img class="media-object" src="/img/service1.jpg" alt="Сканирование документов">
                     </div>
                     <div class="media-body media-middle">
                         <p class="leader">Сканирование документов (архивные документы, в том числе плохой
@@ -123,7 +124,7 @@
             <div class="alert alert-info">
                 <div class="media">
                     <div class="media-left">
-                        <img class="media-object" src="/img/dog.png" alt="Сканирование фотоматериалов">
+                        <img class="media-object" src="/img/service2.jpg" alt="Сканирование фотоматериалов">
                     </div>
                     <div class="media-body media-middle">
                         <p class="leader">Сканирование фотоматериалов</p>
@@ -133,7 +134,7 @@
             <div class="alert alert-warning">
                 <div class="media">
                     <div class="media-left">
-                        <img class="media-object" src="/img/phones.png" alt="Перевод документов в электронный вид">
+                        <img class="media-object" src="/img/service3.jpg" alt="Перевод документов в электронный вид">
                     </div>
                     <div class="media-body media-middle">
                         <p class="leader">Перевод документов в электронный вид (сканирование документа и
@@ -144,7 +145,7 @@
             <div class="alert alert-danger">
                 <div class="media">
                     <div class="media-left">
-                        <img class="media-object" src="/img/ipad.png" alt="Набор текста">
+                        <img class="media-object" src="/img/service4.jpg" alt="Набор текста">
                     </div>
                     <div class="media-body media-middle">
                         <p class="leader">Набор текста</p>
@@ -154,7 +155,7 @@
             <div class="alert alert-success">
                 <div class="media">
                     <div class="media-left">
-                        <img class="media-object" src="/img/dog.png" alt="Переводы">
+                        <img class="media-object" src="/img/service5.jpg" alt="Переводы">
                     </div>
                     <div class="media-body media-middle">
                         <p class="leader">Переводы</p>
